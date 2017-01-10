@@ -1,0 +1,6 @@
+/home/martin/ClionProjects/mkr2014_kf/build/CMakeFiles/edit_cache.dir
+/home/martin/ClionProjects/mkr2014_kf/build/CMakeFiles/rebuild_cache.dir
+/home/martin/ClionProjects/mkr2014_kf/build/CMakeFiles/KalmanFilter.dir
+/home/martin/ClionProjects/mkr2014_kf/build/gui/CMakeFiles/edit_cache.dir
+/home/martin/ClionProjects/mkr2014_kf/build/gui/CMakeFiles/rebuild_cache.dir
+/home/martin/ClionProjects/mkr2014_kf/build/gui/CMakeFiles/Gui.dir
